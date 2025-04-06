@@ -10,7 +10,8 @@ The key goal is to develop strong classification models and draw conclusions abo
 ## **Technologies & Libraries Used**
 
 - **Python**: Central programming language for data analysis and model execution.  
-- **Pandas**: For reading, cleaning, and processing tabular data.  
+- **Pandas**: For reading, cleaning, and processing tabular data.
+- **NumPy**: For numerical computations and array operations.  
 - **Seaborn & Matplotlib**: For statistical and exploratory visualizations (pair plots, box plots, heatmaps).  
 - **Scikit-learn**: For preprocessing, training, and validation of different classification models.  
 - **Google Colab**: Interactive development and analysis environment.
