@@ -29,7 +29,7 @@ Dataset was checked for no missing values or outliers, so it was ready for use i
 - **Pair Plot**: Plotted feature interactions and class separability.  
 - **Box and Violin Plots**: Explored feature distributions by species.  
 - **Correlation Heatmap**: Examined relationships between features.  
-- **Histogram & KDE**: Plotting frequency and density distribution of every feature.
+- **Histogram**: Plotting frequency and density distribution of every feature.
 
 ## **Results & Insights**
 
