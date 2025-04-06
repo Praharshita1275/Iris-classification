@@ -34,7 +34,6 @@ Dataset was checked for no missing values or outliers, so it was ready for use i
 
 ## **Results & Insights**
 
-- **Classification Accuracy**: The majority of models were highly accurate (>95%), with some models (e.g., Random Forest, SVM) being 100% due to the linear separability of the dataset.  
 - **Feature Importance**: Petal length and petal width were the most important features for separating species.  
 - **Species Separability**: Iris setosa was clearly separable from the remaining two classes, but versicolor and virginica had some overlap.  
 - **Model Comparison**: Tree-based and kernel-based models performed amazingly well, confirming the appropriateness of these models for low-dimensional and well-annotated datasets.
